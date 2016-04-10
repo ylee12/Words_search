@@ -24,4 +24,4 @@ is 3. Note that ‘cats’ is not a concatenated word because there is no word �
 To run this application, please have Ruby installed in your system. Then type the following in the same directory of where you placed the concat_word.rb file.
 
 ruby concat_word.rb test_data.txt. For example,
-[ylee@ylee-asus WordChallenge_JS]$ ruby concat_word.rb test_data.txt
+[ylee@ylee-asus word_search]$ ruby concat_word.rb long_data.txt
