@@ -1,0 +1,27 @@
+# Logfile created on 2016-04-10 08:58:01 -0700 by logger.rb/53141
+I, [2016-04-10T08:58:01.532805 #18203]  INFO -- : 
+Result now is ["ratcatdogcat"] 
+I, [2016-04-10T08:59:47.335768 #18238]  INFO -- : 
+Result now is ["ratcatdogcat"] 
+I, [2016-04-10T09:06:32.133609 #18552]  INFO -- : 
+Result now is ["ratcatdogcat"] 
+I, [2016-04-10T09:06:32.137553 #18552]  INFO -- : 
+Result now is ["ratcatdogcat", "catsdogcats"] 
+I, [2016-04-10T09:06:32.141162 #18552]  INFO -- : 
+Result now is ["ratcatdogcat", "catsdogcats", "dogcatsdog"] 
+I, [2016-04-10T09:07:12.421275 #18569]  INFO -- : 
+Result now is ["electroencephalographically"] 
+I, [2016-04-10T09:07:29.900515 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate"] 
+I, [2016-04-10T09:07:35.401418 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate", "immunoelectrophoretically"] 
+I, [2016-04-10T09:07:41.664320 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate", "immunoelectrophoretically", "electrocardiographically"] 
+I, [2016-04-10T09:08:05.084434 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate", "immunoelectrophoretically", "electrocardiographically", "microelectrophoretically"] 
+I, [2016-04-10T09:08:44.242190 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate", "immunoelectrophoretically", "electrocardiographically", "microelectrophoretically", "phosphatidylethanolamine"] 
+I, [2016-04-10T09:08:55.639077 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate", "immunoelectrophoretically", "electrocardiographically", "microelectrophoretically", "phosphatidylethanolamine", "electroencephalographer"] 
+I, [2016-04-10T09:09:03.587901 #18569]  INFO -- : 
+Result now is ["electroencephalographically", "ethylenediaminetetraacetate", "immunoelectrophoretically", "electrocardiographically", "microelectrophoretically", "phosphatidylethanolamine", "electroencephalographer", "indistinguishablenesses"] 
